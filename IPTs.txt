@@ -3565,25 +3565,25 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088912
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088913
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="http://go4.pw/EUROPE/NORWAY/FRANCE 24.png" group-title="VISION+",FRANCE 24
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088914
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 01
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 01" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 01
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live01.mpd
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 02
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 02" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 02
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live02.mpd
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 03
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 03" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 03
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 04
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 04" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 04
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live04.mpd
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 05
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 05" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 05
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live05.mpd
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 06
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 06" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 06
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 07
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 07" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 07
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 08
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 08" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 08
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 09
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 09" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 09
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live09.mpd
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 10
+#EXTINF:-1 tvg-id="" tvg-name="MALAYSIA 10" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="VISION+",MALAYSIA 10
 	https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 
 
@@ -7208,3 +7208,4 @@ https://ddy6new.koskoros.ru/ddy6/premium727/mono.m3u8|referer=https://pkpakiplay
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 
 https://ddy6new.koskoros.ru/ddy6/premium728/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
