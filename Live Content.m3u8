@@ -1,7 +1,4 @@
-diff --git "a/DENSTV.m3u8" "b/DENSTV.m3u8"
-new file mode 100644--- /dev/null
-    "b/DENSTV.m3u8"
-@@ -0,0  1,2283 @@
+#EXTM3U
  
  #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",SPORTSTAR 3 HD
  #EXTVLCOPT:http-referrer=https://www.visionplus.id/
